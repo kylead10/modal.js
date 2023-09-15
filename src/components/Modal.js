@@ -58,7 +58,7 @@ const CloseModalButton = styled(MdClose)`
   top: 20px;
   right: 20px;
   width: 32px;
-  height: 32px;
+  height: 31px;
   padding: 0;
   z-index: 10;
 `;
